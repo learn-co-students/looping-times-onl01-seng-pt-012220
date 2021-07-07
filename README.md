@@ -1,3 +1,8 @@
+5.times do
+  puts "Penguins like to jump 
+off icebergs !"
+end
+
 # The `times` Construct
 
 ## Objectives
